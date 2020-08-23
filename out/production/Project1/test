@@ -1,0 +1,6 @@
+car w e 0
+car e w 0
+car w n 0
+car s n 0
+car e w 0
+start
